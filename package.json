@@ -1,0 +1,21 @@
+{
+  "name": "markdown-it-contents",
+  "version": "0.0.1",
+  "description": "markdown-it plugin for generation a table of contents",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "markdown",
+    "markdown-it-plugin",
+    "toc",
+    "table-of-contents",
+    "anchor"
+  ],
+  "author": "a7b0",
+  "license": "MIT",
+  "dependencies": {
+    "object-assign": "^4.0.1"
+  }
+}
